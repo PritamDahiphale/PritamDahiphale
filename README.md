@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @PritamDahiphale
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Full stack
-
-<!---
-PritamDahiphale/PritamDahiphale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Passionate about crafting code and building innovative solutions
+- 🎓 B.Tech Final Year Student | Aspiring Creative Software Engineer
+- 🤖 Skilled in AI/ML, MERN Stack, Full Stack Java, DevOps, and beyond
+- 🚀 On a journey to blend creativity with technology and solve real-world problems
