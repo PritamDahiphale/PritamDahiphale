@@ -10,7 +10,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50">  
 <img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="MongoDB" width="50" height="50">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Expressjs.png" alt="Express.js" width="50" height="50">  
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50">  
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50">  
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="50" height="50">  
