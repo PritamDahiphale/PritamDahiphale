@@ -7,17 +7,17 @@
 
 ## 🛠️ Technologies & Tools
 
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) JavaScript
-- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React
-- ![Node.js](https://nodejs.org/static/images/logo.svg) Node.js
-- ![MongoDB](https://www.mongodb.com/assets/images/global/favicon.ico) MongoDB
-- ![Express.js](https://expressjs.com/images/express-facebook-share.png) Express.js
-- ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg) Java
-- ![Python](https://www.python.org/community/logos/python-logo-master-v3-TM.png) Python
-- ![Docker](https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-black.png) Docker
-- ![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) Git
-- ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) GitHub
-- ![AWS](https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.bad82b0b11aa5e05c37a6d9c2769c663be3f7a9b.png) AWS
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30" height="30"> JavaScript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30"> React
+- <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="30" height="30"> Node.js
+- <img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="MongoDB" width="30" height="30"> MongoDB
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Expressjs.png" alt="Express.js" width="30" height="30"> Express.js
+- <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg" alt="Java" width="30" height="30"> Java
+- <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" width="30" height="30"> Python
+- <img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-black.png" alt="Docker" width="30" height="30"> Docker
+- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="30" height="30"> Git
+- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" height="30"> GitHub
+- <img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.bad82b0b11aa5e05c37a6d9c2769c663be3f7a9b.png" alt="AWS" width="30" height="30"> AWS
 
 ## 📫 Contact
 - **LinkedIn**: [Pritam Dahiphale](https://www.linkedin.com/in/pritam-dahiphale-0640a41b3/)
